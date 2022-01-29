@@ -1,0 +1,12 @@
+.bg-orange{
+background-color: orange;
+}
+.border-bottom-1{
+    border-bottom: 1px solid black;
+}
+body{
+    font-family: 'PT Serif', serif;
+}
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
